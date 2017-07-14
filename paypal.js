@@ -37,7 +37,7 @@ function loadPopup(){
 			$(clicked).fadeIn("slow");
 			popupStatus = 1;
 		 });
-		 $("#backgroundPopup").html("<div style=\"position:absolute; left:50%; top:50%; margin-left:-75px; margin-top:-10px\"><div style=\"padding:5px; text-align:center; font-size:18px; color:#33FFFF\"><img src=\"http://css.vmad-cdn.com/images/loading.gif\" width=\"20\" height=\"20\" align=\"absmiddle\" /> checking...</div></div>");
+		 $("#backgroundPopup").html("<div style=\"position:absolute; left:50%; top:50%; margin-left:-75px; margin-top:-10px\"><div style=\"padding:5px; text-align:center; font-size:18px; color:#33FFFF\"><img src=\"https://cdn.rawgit.com/vmadcdn/css/10916977/images/loading.gif\" width=\"20\" height=\"20\" align=\"absmiddle\" /> checking...</div></div>");
 	}
 }
 

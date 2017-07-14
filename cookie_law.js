@@ -83,7 +83,7 @@
 
 		//Set Defaults
         var defaults = {
-            imgpath:				"http://img.vmad-cdn.com/cookielawscript/",
+            imgpath:				"https://cdn.rawgit.com/vmadcdn/img/43dbe82b/cookielawscript/",
             cwmessage:				"Please note this website requires cookies in order to function correctly, they do not store any specific information about you personally.",
             cwbubblemessage:		"On 26th May 2012, new laws came into force in the EU that affect most web sites. If cookies are used in a site, the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 (UK Regulations) asks that the website user must give consent to the use and placing of the cookies.",
             cwbubbletitle:			"Cookie Laws within the EU",

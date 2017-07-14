@@ -24,7 +24,7 @@ $(document).ready(function() {
 
 	$("#sendContact").click(function(e) {
 		e.preventDefault();
-		$("#popupContact .loadingArea").html("<img src=\"http://img.vmad-cdn.com/ajax-loader-orange.gif\"/>");
+		$("#popupContact .loadingArea").html("<img src=\"https://cdn.rawgit.com/vmadcdn/img/43dbe82b/ajax-loader-orange.gif\"/>");
 		
 		var target = $("#popupContact #ContactTargetText").attr("value");
 		var message = $("#popupContact #ContactMessageText").attr("value");

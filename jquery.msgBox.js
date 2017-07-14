@@ -29,7 +29,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 // users may change this variable to fit their needs
-var msgBoxImagePath = "http://img.vmad-cdn.com/msgbox/";
+var msgBoxImagePath = "https://cdn.rawgit.com/vmadcdn/img/43dbe82b/msgbox/";
 
 jQuery.msgBox = msg;
 function msg (options) {
